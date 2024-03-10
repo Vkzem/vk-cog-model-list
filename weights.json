@@ -159,7 +159,10 @@
         "Segmind-VegaRT.safetensors",
         "theovercomer8sContrastFix_sd15.safetensors",
         "theovercomer8sContrastFix_sd21768.safetensors",
-        "s14.safetensors"
+        "s14.safetensors",
+        "2020-honda-civic-type-r-000004.tar",
+        "2018-Ford-Mustang-000009.tar",
+        "2017-tesla-model-s-000001.tar"
     ],
     "EMBEDDINGS": [
         "bad_prompt_version2-neg.pt",
