@@ -162,7 +162,12 @@
         "s14.safetensors",
         "2020-honda-civic-type-r-000003.safetensors",
         "2018-Ford-Mustang-000003.safetensors",
-        "2017-tesla-model-s-000001.safetensors"
+        "2017-tesla-model-s-000001.safetensors",
+        "SWF436_CARMINE_RED-ohwx-000007.safetensors",
+        "sw552-roaringthunder-blue-red-gloss-ohwx-000002.safetensors",
+        "SWF632_LIGHT_BLUE-ohwx-000002.safetensors",
+        "sw900-satin-moonstone-ohwx-000005.safetensors",
+        "mch08-frozen-berry-chrome-wrap-000004.safetensors"
     ],
     "EMBEDDINGS": [
         "bad_prompt_version2-neg.pt",
