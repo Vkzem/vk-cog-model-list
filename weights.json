@@ -168,7 +168,9 @@
         "0000-SWF632_LIGHT_BLUE-ohwx-000002.safetensors",
         "0000-sw900-satin-moonstone-ohwx-000005.safetensors",
         "0000-mch08-frozen-berry-chrome-wrap-000004.safetensors",
-        "2014-lamborghini-gallardo-01jugg.safetensors"
+        "2014-lamborghini-gallardo-01jugg.safetensors",
+        "0000-acid-lime-ohwx-000004.safetensors",
+        "0000-orange3mgloss-ohwx-000003.safetensors"
     ],
     "EMBEDDINGS": [
         "bad_prompt_version2-neg.pt",
