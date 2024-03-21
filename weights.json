@@ -172,8 +172,9 @@
         "0000-acid-lime-ohwx-000004.safetensors",
         "0000-orange3mgloss-ohwx-000003.safetensors",
         "0000-SWF211C_CHROME_ROSE_GOLD-000004.safetensors",
-        "0000-nardo-grey-teckwrap-ohwx-grey-000005",
-        "0000-rt-2-ohwx-purple-000002"        
+        "0000-nardo-grey-teckwrap-ohwx-grey-000005.safetensors",
+        "0000-rt-2-ohwx-purple-000002.safetensors",
+        "0000--3mwhite-ohwx-white-colored-000003.safetensors"
     ],
     "EMBEDDINGS": [
         "bad_prompt_version2-neg.pt",
